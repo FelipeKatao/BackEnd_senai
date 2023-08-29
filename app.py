@@ -8,7 +8,6 @@ def Somatorio(ValorA,ValorB):
     return ValorA+ValorB
 
 def Subtrair(valor,valorB):
-    return valor-valorB-1
-
+    return valor-valorB
 
 print(Somatorio(3,4)+Somatorio(3,2))

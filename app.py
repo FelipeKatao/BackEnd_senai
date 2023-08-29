@@ -7,5 +7,8 @@ def FuncaoA(ValorA =0,ValorB =0):
 def Somatorio(ValorA,ValorB):
     return ValorA+ValorB
 
+def Subtrair(valor,valorB):
+    pass
+
 
 print(Somatorio(3,4)+Somatorio(3,2))

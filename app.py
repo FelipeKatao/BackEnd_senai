@@ -6,7 +6,9 @@ def FuncaoA(ValorA =0,ValorB =0):
 
 def FuncaoB(valorA=2):
     return valorA+4
+def funcaoC(valor=4):
+    return valor-3
 
-
-print(FuncaoA(4,2))
-print(FuncaoB(4))
+print("=======================")
+print(funcaoC())
+print("=======================")
